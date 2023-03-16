@@ -5,3 +5,9 @@ time {
 .post {
     margin-bottom: 24px;
 }
+
+#mensagem {
+    height: 180px;
+    width: 100%;
+    resize: none;
+    }
